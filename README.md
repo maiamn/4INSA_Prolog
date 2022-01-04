@@ -1,1 +1,0 @@
-# 4INSA_Prolog
